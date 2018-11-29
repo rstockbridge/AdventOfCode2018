@@ -1,8 +1,8 @@
 # Advent Of Code 2018
 
-Template project for Kotlin tests and solutions for the [2018 puzzles](http://adventofcode.com/2018).
+Project for Kotlin tests and solutions for the [2018 puzzles](http://adventofcode.com/2018).
 
-To get started, simply fork this project! Then:
+To add daily solutions:
 
 - Copy your daily inputs into the `dayXX/src/main/resources/input.txt` files.
 - Write your daily solutions in the `main` functions in the files named `dayXX/src/main/kotlin/Main.kt`.
