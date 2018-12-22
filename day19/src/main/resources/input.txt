@@ -27,7 +27,7 @@ addr 5 1 5
 addr 4 0 4
 seti 0 9 4
 setr 4 2 1
-mulr 1 4 1
+mulr 1 4 1]
 addr 4 1 1
 mulr 4 1 1
 muli 1 14 1
