@@ -29,6 +29,9 @@ tasks.compileTestKotlin {
 
 tasks.test {
     useJUnitPlatform()
+    testLogging {
+        showStandardStreams = true
+    }
 }
 
 application {
